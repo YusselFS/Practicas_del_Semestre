@@ -1,0 +1,3 @@
+﻿  Zap587_Practica4_Cout_Cin.cpp
+C:\Users\la_ya\source\repos\Zap587_Practica4_Cout_Cin\Zap587_Practica4_Cout_Cin.cpp(64,13): warning C4477: 'scanf_s' : la cadena de formato '%d' requiere un argumento de tipo 'int *', pero el argumento variádico 1 tiene el tipo 'bool *'
+  Zap587_Practica4_Cout_Cin.vcxproj -> C:\Users\la_ya\source\repos\Zap587_Practica4_Cout_Cin\Debug\Zap587_Practica4_Cout_Cin.exe

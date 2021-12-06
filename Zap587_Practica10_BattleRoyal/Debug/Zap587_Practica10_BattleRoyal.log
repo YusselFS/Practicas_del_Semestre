@@ -1,0 +1,3 @@
+﻿  Zap587_Practica10_BattleRoyal.cpp
+C:\Users\la_ya\source\repos\Zap587_Practica10_BattleRoyal\Zap587_Practica10_BattleRoyal.cpp(63,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Zap587_Practica10_BattleRoyal.vcxproj -> C:\Users\la_ya\source\repos\Zap587_Practica10_BattleRoyal\Debug\Zap587_Practica10_BattleRoyal.exe
